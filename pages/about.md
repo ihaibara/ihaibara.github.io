@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 这里是关于界面
+keywords: About , Hanpc
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+Hello，我是Hanpc，很高兴你能来到这里，希望我的博客分享对你来说是有价值的。
 
 ## 联系
 

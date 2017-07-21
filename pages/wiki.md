@@ -8,7 +8,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 网站大了才会有wiki吧，大概，目前还没有东西能够放在这里
 
 <ul class="listing">
 {% for wiki in site.wiki %}
