@@ -46,7 +46,11 @@ navs:
   -
     href: /about/
     label: 关于
-
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 # ---------------- #
 #       RSS        #
 # ---------------- #
@@ -78,7 +82,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: ihaibara/ihaibara.github.io
 
 # ---------------- #
 #      Comments    #
@@ -107,4 +111,4 @@ lazy_load_disqus : true
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: 
