@@ -5,6 +5,7 @@ categories: Windows
 description: 本文描述了如何使用任务管理器查看某个正在运行的进程是否是处于提权运行状态
 keywords: Windows
 ---
+
 *本文描述了如何使用任务管理器查看某个正在运行的进程是否是处于提权运行状态*
 
 # 检测Windows进程是否是提权运行状态
@@ -17,15 +18,15 @@ keywords: Windows
 
 ## Windows 10/Windows 8.1/Windows 8
 
-1. 打开任务管理器，切换到详细信息tab页面，一般情况下如图所示
+- 打开任务管理器，切换到详细信息tab页面，一般情况下如图所示
 
 ![win10-taskmgr-normal](http://otsjxkilz.bkt.clouddn.com/markdown-img-paste-2017072815565359.png)
 
-2. 在任意列上右击，在弹出的”选择列”中下拉选择“特权”列
+- 在任意列上右击，在弹出的”选择列”中下拉选择“特权”列
 
 ![win10-taskmgr-select](http://otsjxkilz.bkt.clouddn.com/markdown-img-paste-2017072816025301.png)
 
-3. 然后就可以看到目前处于提权状态的进程了，比如我们的360
+- 然后就可以看到目前处于提权状态的进程了，比如我们的360
 
 ![win10-task-mgr-elevated](http://otsjxkilz.bkt.clouddn.com/markdown-img-paste-20170728160431928.png)
 
