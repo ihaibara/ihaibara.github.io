@@ -39,3 +39,5 @@ keywords: Windows
 我没有在Win 7上测试过，不过在Win10 上，多数的结果和特权的显示是一致的
 
 ![win10-win7-uav-virtual](http://otsjxkilz.bkt.clouddn.com/markdown-img-paste-20170728160939904.png)
+
+***本文完***
