@@ -5,11 +5,12 @@ categories: [Game Design]
 description: 在RTS风格的游戏中的组寻路和移动 Group Pathfinding & Movement in RTS Style Games
 keywords: Game Design
 ---
-> 本文翻译自https://www.gamasutra.com/blogs/AndrewErridge/20180522/318413/Group_Pathfinding__Movement_in_RTS_Style_Games.php
 
 在过去的5年中，我（作者）一直致力于改进RTS风格的游戏[The Maestros](https://maestrosgame.com/)中的分组单位移动。正如大约20年前Dave Pottinger 在他的“帝国时代”（Age of Empires）工作时[所指出的那样](https://www.gamasutra.com/view/feature/131720/coordinated_unit_movement.php) ，运动中的“寻路”这部分内容引起了所有人的注意，但使得数十个单位有智慧地走上一条道路的确重要且相当困难。我很想告诉你关于我在这个领域的旅程。
 
 接下来的决不是最先进的解决方案。二十多年来，这个行业在这个问题上有非常出色的想法，你和我都没有希望紧跟时代的步伐。因此，让我们专注于在实际的游戏约束条件下为玩家制作基本路径的基本细节。我们假定了你拥有3D数学的实际知识，并不需要你有博士学位。说实话，我可能会让你心烦意乱;）
+
+> 本文翻译自https://www.gamasutra.com/blogs/AndrewErridge/20180522/318413/Group_Pathfinding__Movement_in_RTS_Style_Games.php
 
 # 目标
 
