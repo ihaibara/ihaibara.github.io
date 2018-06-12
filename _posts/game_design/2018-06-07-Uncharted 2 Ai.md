@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 神秘海域2中敌人AI的秘密 The Secrets Of Enemy AI In Uncharted 2
+title: 揭秘神秘海域2的敌人AI The Secrets Of Enemy AI In Uncharted 2
 categories: [Game Design]
 description: GameDev上的The Secrets Of Enemy AI In Uncharted 2的文章的中文翻译
 keywords: Game Design
